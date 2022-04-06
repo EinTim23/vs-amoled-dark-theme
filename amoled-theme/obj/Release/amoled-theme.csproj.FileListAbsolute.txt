@@ -1,0 +1,13 @@
+C:\Users\Tim\source\repos\amoled-theme\amoled-theme\bin\Release\amoled-dark-color-theme.pkgdef
+C:\Users\Tim\source\repos\amoled-theme\amoled-theme\bin\Release\amoled-theme.vsix
+C:\Users\Tim\source\repos\amoled-theme\amoled-theme\bin\Release\extension.vsixmanifest
+C:\Users\Tim\source\repos\amoled-theme\amoled-theme\obj\Release\amoled-theme.csproj.AssemblyReference.cache
+C:\Users\Tim\source\repos\amoled-theme\amoled-theme\obj\Release\_EmptyResource.resources
+C:\Users\Tim\source\repos\amoled-theme\amoled-theme\obj\Release\amoled-theme.csproj.GenerateResource.cache
+C:\Users\Tim\source\repos\amoled-theme\amoled-theme\obj\Release\amoled-theme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\source\repos\amoled-theme\amoled-theme\obj\Release\amoled-theme.csproj.CoreCompileInputs.cache
+C:\Users\Tim\source\repos\amoled-theme\amoled-theme\obj\Release\amoled-theme.dll
+C:\Users\Tim\source\repos\amoled-theme\amoled-theme\obj\Release\amoled-theme.pdb
+C:\Users\Tim\source\repos\amoled-theme\amoled-theme\obj\Release\extension.vsixmanifest
+C:\Users\Tim\source\repos\amoled-theme\amoled-theme\obj\Release\files.json
+C:\Users\Tim\source\repos\amoled-theme\amoled-theme\obj\Release\createTemplateManifests.cache
